@@ -3,4 +3,4 @@
 	url = https://github.com/dxr-dreamer/doip-sdk.git
 [submodule "ddolib_dev"]
 	path = ddolib_dev
-	url = https://github.com/dxr-dreamer/ddolib.git
+	url = https://github.com/dxr-dreamer/ddolib_dev.git
